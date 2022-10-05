@@ -1,0 +1,107 @@
+body{
+    text-align: center;
+    margin: 0px;
+}
+.mountain{
+    padding-top: 50px;
+}
+
+.one{
+    background-color: rgb(22, 146, 146);
+    margin: 0px;
+}
+.under{
+    font-size: x-large;
+}
+.cloud{
+    position: absolute;
+    left: 120px;
+    top: 400px;
+}
+.cloud2{
+    position: absolute;
+    bottom: 400px;
+    right: 20px;
+}
+h1{
+    padding-top: 100px;
+    margin: 0px;
+    font-weight: normal;
+    font-size:80px;
+    font-family: 'Sacramento', cursive;
+}
+.passport{
+    width: 350px;
+    clip-path: circle();
+}
+hr{
+    border: none;
+    display: block;
+    width: 100px;
+    border-top-style: dotted;
+    border-width: 12px;
+}
+p{
+    font-size: large;
+}
+h2{
+    font-size: xx-large;
+    font-family: 'Montserrat', sans-serif;
+}
+.two{
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.three{
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.computer{
+    width: 110px;
+    float:left;
+    padding-right: 10px;
+}
+.left{
+    text-align: left;
+    margin-bottom: 0px;
+}
+.right{
+    text-align: left;
+    margin-top: 8px;
+}
+.btn {
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    -webkit-box-shadow: -1px 5px 4px #666666;
+    -moz-box-shadow: -1px 5px 4px #666666;
+    box-shadow: -1px 5px 4px #666666;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    border: solid #025f99 4px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #a3dcff;
+    background-image: -webkit-linear-gradient(top, #a3dcff, #0099ff);
+    background-image: -moz-linear-gradient(top, #a3dcff, #0099ff);
+    background-image: -ms-linear-gradient(top, #a3dcff, #0099ff);
+    background-image: -o-linear-gradient(top, #a3dcff, #0099ff);
+    background-image: linear-gradient(to bottom, #a3dcff, #0099ff);
+    text-decoration: none;
+  }
+  .for{
+    margin-top: 25px;
+    background-color: rgb(0, 95, 204);
+    color: white;
+    margin-bottom: 0px;
+  }
+  h3{
+    font-family: 'Merriweather', serif;
+  }
